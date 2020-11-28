@@ -1,4 +1,4 @@
-# Virtual Painting OpenCV MiniProject.
+# Virtual Painting - OpenCV MiniProject.
 ## By Rishabh Shah 1914118 and Naman Shah 1914117
 ### This document gives a brief of our openCV miniproject "Finger Painting".
 
